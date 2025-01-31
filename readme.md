@@ -3,6 +3,8 @@ This repo contains the implementation and demo of the paper ['ArchBERT: Bi-Modal
 
 Link to arXiv paper: https://arxiv.org/abs/2310.17737
 
+Link to Huawei's AI Gallery Notebook: [https://developer.huaweicloud.com/develop/aigallery/notebook/detail?id=58b799a0-5cfc-4c2e-8b9b-440bb2315264](https://developer.huaweicloud.com/develop/aigallery/notebook/detail?id=e6a924c7-735a-4e02-a25b-4416b77b6315)
+
 ![](https://vbdai-notebooks.obs.cn-north-4.myhuaweicloud.com/archbert/framework.png)
 
 ### Download Code and Datasets
